@@ -1,4 +1,4 @@
 #makefile
 LDFLAGS=-lncurses
 
-all: ncTest
+all: nc_status
